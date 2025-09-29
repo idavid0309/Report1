@@ -1,3 +1,3 @@
-a=("hello world")
+a=("hello school")
 b=("!!")
 print(a+b)
